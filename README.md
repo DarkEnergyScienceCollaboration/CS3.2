@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  Methods beyand brue-force simulations
 
 Summary -- For different DCs, different methods of enhancing resolution in the simulations can be employed,
 e.g. for clusters it could be re-simulation techniques, or merger trees that serve as input for semi-analytic
